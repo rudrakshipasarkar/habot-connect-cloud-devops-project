@@ -1,0 +1,6 @@
+# Candidate: Rudrakshi Pasarkar | Contact: rudrakshipasarkar@gmail.com
+project_id          = "habot-staging-12345"
+analyst_group_email = "approved-uae-analysts@example.com"
+region              = "me-central1"
+data_location       = "ME-CENTRAL1"
+
